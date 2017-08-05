@@ -6,4 +6,4 @@
           <img src="">
    * > [Cura](https://ultimaker.com/en/blog/49795-introducing-cura-26) <br/>
           This could be downloaded from the following link : [CURA 2.6.2](https://ultimaker.com/en/products/cura-software)
-          <img src="">
+          <img src="software.github.io/Screenshot (23).png">
